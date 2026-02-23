@@ -1,0 +1,20 @@
+Exploratory Data Analysis of Netflix Movies and TV show Analsis
+Problem Statement
+With the rapid rise of digital streaming platforms, Netflix has become one of the world's leading providers of online entertainment content. The platform hosts a vast collection of movies and TV shows spanning multiple genres, countries, ratings, and release periods. Understanding the structure and patterns within this content library is important for identifying trends, audience targeting strategies, and content distribution dynamics.
+
+Objectives
+To examine the distribution of content types
+
+To analyze content growth over time
+
+To identify country-wise content production
+
+To study ratings classification
+
+To analyze genre distribution
+
+To evaluate duration patterns
+
+To detect notable trends and anomalies
+
+To generate visual insights
